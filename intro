@@ -1,0 +1,18 @@
+userModel
+    full name   - String
+    email   - String
+    password   - String
+    cart   - array
+    isadmin   - Boolean
+    orders   - array
+    contact   - number
+    picture   - db (memory storage multer)
+
+Product 
+    image
+    name
+    price
+    discount
+    bgcolor
+    panelcolor
+    textcolor
